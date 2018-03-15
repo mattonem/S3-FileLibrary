@@ -1,3 +1,3 @@
 actions
 documentOf: aSelector
-	^ self perform: aSelector
+	^ (FileSystem workingDirectory / 'ressources' / aSelector ) readStream binary upToEnd
