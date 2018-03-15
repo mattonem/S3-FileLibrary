@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "WAFileLibrary",
 	"category" : "FSFileLibrary",
 	"classinstvars" : [ ],
 	"pools" : [ ],
