@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "BaselineOfS3FileLibrary",
+	"category" : "BaselineOfFSFileLibrary",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BaselineOfS3FileLibrary",
+	"name" : "BaselineOfFSFileLibrary",
 	"type" : "normal"
 }
